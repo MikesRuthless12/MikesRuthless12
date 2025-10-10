@@ -53,9 +53,6 @@ I’m always working on new tools that bridge **ease of use** with **technical p
 - 🌐 **The Ultimate Developer & Creator Hub**
   > A searchable web database of AI tools, developer platforms, and creator resources.
 
-- 🧠 **Code Coalition**
-  > A Discord-style collaboration platform for developers — featuring chat rooms, bounties, and live code sessions.
-
 ---
 
 ## ⚡ Quick Facts
