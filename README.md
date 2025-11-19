@@ -19,9 +19,9 @@ While WinForms is my home turf, I’m fluent in a variety of other technologies 
 |-----------|------------------|
 | 💼 **Primary Focus** | C# (.NET Framework / WinForms) |
 | 🧩 **Also Experienced In** | C++, Python, Java, VB.Net |
-| 🌐 **Web Development** | HTML5, CSS3, JavaScript |
+| 🌐 **Web Development** | HTML5, CSS3, JavaScript, TypeScript |
 | 🗃️ **Databases** | SQL, SQLite, MySQL |
-| ⚙️ **Other Tools & Frameworks** | .NET Core, Visual Studio, Git, WinAPI |
+| ⚙️ **Other Tools & Frameworks** | .NET Core, Visual Studio, Git, WinAPI, NetBeans |
 | 🧠 **Special Interests** | UI/UX Design, Performance Optimization, Automation |
 
 ---
