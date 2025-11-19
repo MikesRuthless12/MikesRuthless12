@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Mike DoubleYou — aka **Havoc**
 
-💻 **Software Developer** | 🧠 **C#, C++, Python, Java, VB.Net / .NET Engineer** | 🎨 **Tech Enthusiast**
+💻 **Software Developer** | 🧠 **C# / .NET Engineer** | 🎨 **Tech Enthusiast**
 
 ---
 
