@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Mike DoubleYou — aka **Havoc**
+# 👋 Hey there, I'm Mike DoubleYou
 
 💻 **Software Developer** | 🧠 **C# / .NET Engineer** | 🎨 **Tech Enthusiast**
 
@@ -6,7 +6,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm **Mike Weaver**, known online as **Mike DoubleYou** or **Havoc** — a passionate software developer focused primarily on building **Windows Desktop Applications** using **C# .NET Framework with WinForms**.  
+I'm **Mike Weaver**, known online as **Mike DoubleYou** — a passionate software developer focused primarily on building **Windows Desktop Applications** using **C# .NET Framework with WinForms**.  
 
 I love creating tools that make systems faster, smarter, and more intuitive.  
 While WinForms is my home turf, I’m fluent in a variety of other technologies and enjoy jumping between ecosystems to solve interesting problems.
@@ -47,8 +47,17 @@ I’m always working on new tools that bridge **ease of use** with **technical p
 
 ## 🧩 Current Projects
 
-- 🪟 **Advanced WinForms File Copier**
-  > Multi-threaded C# copy manager with real-time progress, retry logic, pause/resume, and detailed per-thread tracking.
+- 🛡️ **Mythodikal Anti-Virus**
+  > The fastest source-visible anti-virus for Windows, macOS, and Linux.
+
+- 📋 **Copy That**
+  > Cross-platform async byte-exact file copier in Rust + Tauri 2.x — work in progress.
+
+- 🎚️ **WavLoom**
+  > Cross-platform digital audio workstation for Windows, macOS, and Linux.
+
+- 🔮 **Sourcerer**
+  > One search. Every source. Every OS. — Cross-platform realtime filesystem search (Win + macOS + Linux). The next Everything.
 
 - 🌐 **The Ultimate Developer & Creator Hub**
   > A searchable web database of AI tools, developer platforms, and creator resources.
