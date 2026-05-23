@@ -6,7 +6,7 @@
 
 ## 🧑‍💼 About Me
 
-I'm **Mike Weaver**, known online as **Mike DoubleYou** — a passionate software developer focused primarily on building **Windows Desktop Applications** and **Cross-Platform Applications**.  
+I'm **Mike Weaver**, known online as **Mike DoubleYou** — a passionate software engineer focused primarily on building **Windows Desktop Applications** and **Cross-Platform Applications**.  
 
 I love creating tools that make systems faster, smarter, and more intuitive.  
 While WinForms is my home turf, I’m fluent in a variety of other technologies and enjoy jumping between ecosystems to solve interesting problems.
