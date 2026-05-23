@@ -17,7 +17,7 @@ While WinForms is my home turf, I’m fluent in a variety of other technologies 
 
 | Category | Tools / Languages |
 |-----------|------------------|
-| 💼 **Primary Focus** | C# (.NET Framework / WinForms) |
+| 💼 **Primary Focus** | Cross-Platform Desktop Applications |
 | 🧩 **Also Experienced In** | C++, Java, Python, Rust, & VB.Net |
 | 🌐 **Web Development** | HTML5, CSS3, JavaScript, TypeScript |
 | 🗃️ **Databases** | SQL, SQLite, MySQL |
