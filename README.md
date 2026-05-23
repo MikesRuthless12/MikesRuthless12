@@ -1,12 +1,12 @@
 # 👋 Hey there, I'm Mike DoubleYou
 
-💻 **Software Developer** | 🧠 **C# / .NET Engineer** | 🎨 **Tech Enthusiast**
+💻 **Software Engineer** | 🎨 **Tech Enthusiast**
 
 ---
 
 ## 🧑‍💼 About Me
 
-I'm **Mike Weaver**, known online as **Mike DoubleYou** — a passionate software developer focused primarily on building **Windows Desktop Applications** using **C# .NET Framework with WinForms**.  
+I'm **Mike Weaver**, known online as **Mike DoubleYou** — a passionate software developer focused primarily on building **Windows Desktop Applications** and **Cross-Platform Applications**.  
 
 I love creating tools that make systems faster, smarter, and more intuitive.  
 While WinForms is my home turf, I’m fluent in a variety of other technologies and enjoy jumping between ecosystems to solve interesting problems.
@@ -18,7 +18,7 @@ While WinForms is my home turf, I’m fluent in a variety of other technologies 
 | Category | Tools / Languages |
 |-----------|------------------|
 | 💼 **Primary Focus** | C# (.NET Framework / WinForms) |
-| 🧩 **Also Experienced In** | C++, Python, Java, VB.Net |
+| 🧩 **Also Experienced In** | C++, Java, Python, Rust, & VB.Net |
 | 🌐 **Web Development** | HTML5, CSS3, JavaScript, TypeScript |
 | 🗃️ **Databases** | SQL, SQLite, MySQL |
 | ⚙️ **Other Tools & Frameworks** | .NET Core, Visual Studio, Git, WinAPI, NetBeans |
