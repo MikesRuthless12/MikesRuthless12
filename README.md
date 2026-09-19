@@ -45,25 +45,6 @@ I’m always working on new tools that bridge **ease of use** with **technical p
 
 ---
 
-## 🧩 Current Projects
-
-- 🛡️ **Mythodikal Anti-Virus**
-  > The fastest source-visible anti-virus for Windows, macOS, and Linux.
-
-- 📋 **Copy That**
-  > Cross-platform async byte-exact file copier in Rust + Tauri 2.x — work in progress.
-
-- 🎚️ **WavLoom**
-  > Cross-platform digital audio workstation for Windows, macOS, and Linux.
-
-- 🔮 **Sourcerer**
-  > One search. Every source. Every OS. — Cross-platform realtime filesystem search (Win + macOS + Linux). The next Everything.
-
-- 🌐 **The Ultimate Developer & Creator Hub**
-  > A searchable web database of AI tools, developer platforms, and creator resources.
-
----
-
 ## ⚡ Quick Facts
 
 - 🎧 I code best with music on  
